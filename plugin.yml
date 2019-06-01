@@ -1,0 +1,21 @@
+﻿name: Core
+main: Core\Core
+version: "1.0.0"
+author: TeleMC
+api:
+- 3.0.0-ALPHA7
+- 3.0.0-ALPHA8
+- 3.0.0-ALPHA9
+- 3.0.0-ALPHA10
+- 3.0.0-ALPHA11
+- 3.0.0-ALPHA12
+- 3.0.0
+- 3.1.0
+- 4.0.0
+commands:
+  전직:
+    description: asdf
+  레벨설정:
+    description: ㅁㄴㅇ
+  경험치추가:
+    description: f
